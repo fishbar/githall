@@ -11,7 +11,7 @@
  */
 
 var config = {
-  port: 1984,
+  port: 2012,
   sessionSecret: 'githall session secret',
 };
 
