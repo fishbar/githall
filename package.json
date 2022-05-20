@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "response-patch": "0.0.2",
-    "connect": "2.7.0",
+    "connect": "2.9.0",
     "urlrouter": "0.2.3"
   },
   "devDependencies": {
